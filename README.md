@@ -1,5 +1,5 @@
 # login-en-php-y-registro-usuarios
-aqui se realiza un login en php conectando a una base de datos y se puede registrar usuarios
+aqui se realiza un login en php conectando a una base de datos y se puede registrar usuarios estas practicas las hago para practicar el lenguage
 
 ## Inicio de session 
 ![image](https://user-images.githubusercontent.com/57459718/93818038-71b38e80-fc1f-11ea-8e00-1b5470d06d31.png)
